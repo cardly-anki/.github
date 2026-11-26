@@ -4,7 +4,8 @@
   <p><strong>Open-source Anki web client and sync server built with Rust and Svelte.</strong></p>
 
   <p>
-    <a href="https://github.com/cardly-anki/cardly">Repository</a> ·
+    <a href="https://github.com/cardly-anki/cardly">Cardly App</a> ·
+    <a href="https://github.com/cardly-anki/plugins">Plugin Registry</a> ·
     <a href="https://my-cardly.duckdns.org">Live Demo</a> ·
     <a href="https://cardly-anki.github.io/cardly/">Showcase</a> ·
     <a href="https://github.com/cardly-anki/cardly/discussions">Discussions</a>
@@ -13,6 +14,7 @@
 
 ---
 
-### Projects
+### Repositories
 
-- **[cardly-anki/cardly](https://github.com/cardly-anki/cardly)** — A fast, self-hosted Anki web app backed by upstream Anki's Rust core (`rslib`) with full FSRS-6 scheduling, `.apkg` import/export, AnkiWeb sync, and PWA offline support.
+- **[cardly-anki/cardly](https://github.com/cardly-anki/cardly)** — A fast, self-hosted Anki web app and sync server backed by official Anki's Rust core (`rslib`), with FSRS-6 scheduling, `.apkg` import/export, PWA offline support, and a permission-gated JS plugin runtime.
+- **[cardly-anki/plugins](https://github.com/cardly-anki/plugins)** — Official add-on registry and community JS plugins for Cardly (including **Review Heatmap**).
