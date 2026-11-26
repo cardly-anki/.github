@@ -5,7 +5,7 @@
 
   <p>
     <a href="https://github.com/cardly-anki/cardly">Cardly App</a> ·
-    <a href="https://github.com/cardly-anki/plugins">Plugin Registry</a> ·
+    <a href="https://cardly-anki.github.io/plugins/">Plugin Marketplace</a> ·
     <a href="https://my-cardly.duckdns.org">Live Demo</a> ·
     <a href="https://cardly-anki.github.io/cardly/">Showcase</a> ·
     <a href="https://github.com/cardly-anki/cardly/discussions">Discussions</a>
